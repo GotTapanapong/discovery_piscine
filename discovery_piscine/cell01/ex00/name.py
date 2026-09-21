@@ -1,3 +1,3 @@
-first_name = "Kritsada"
-last_name = "Anegtanagul"
+first_name = "Tapanapong"
+last_name = "Pongboriboon"
 print(first_name, last_name)
