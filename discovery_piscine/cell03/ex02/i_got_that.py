@@ -1,7 +1,5 @@
-txt = input("What you gotta say? : ")
-
-while True:
-    if txt == "STOP":
-        break
-    else:
-        txt = input(" I got that! Anything else? : ")
+#!/usr/bin/python3
+text = input("What you gotta say? : ")
+key = "STOP"
+while text != key:
+    text = input("I got that! Anything else? : ")
